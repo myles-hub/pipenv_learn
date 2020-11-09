@@ -224,7 +224,7 @@ wheel        0.35.1
 >
 > - 在linux或mac中，虚拟环境目录则会在`~/.local/share/virtualenvs/`目录下创建。虚拟环境文件夹名称会以**当前项目目录名+一串随机字符**命名，例如`demo01-f6WazQPd`.
 
-![image-20201109151710768](.\\images\\setting_pipenv_in_pycharm.png)
+![image-20201109151710768](./images/setting_pipenv_in_pycharm.png)
 
 
 
